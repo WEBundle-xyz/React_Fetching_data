@@ -10,4 +10,8 @@
 
 [5 - Handling errors ](../../tree/b53f0cca14753e867731ea5e2b20063fe345d5a4/)
 
-[6 - Empty ](../../tree//)
+[6 - Implemented useEffect and useCallback ](../../tree/f2b8745fd46ea529b6c3aa972ddbf5ee76889e84/)
+
+[7 - Empty ](../../tree//)
+
+[8 - Empty ](../../tree//)
