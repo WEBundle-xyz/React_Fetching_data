@@ -8,6 +8,6 @@
 
 [4 - Changing from then/catch to async/await ](../../tree/6ce8dae3c51af0eff0a3379006d26464de628d57/)
 
-[5 - Empty ](../../tree//)
+[5 - Handling errors ](../../tree/b53f0cca14753e867731ea5e2b20063fe345d5a4/)
 
 [6 - Empty ](../../tree//)
