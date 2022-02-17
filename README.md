@@ -12,6 +12,6 @@
 
 [6 - Implemented useEffect and useCallback ](../../tree/f2b8745fd46ea529b6c3aa972ddbf5ee76889e84/)
 
-[7 - Empty ](../../tree//)
+[7 -  POST requests and the Firebase account ](../../tree/1cbbb51deedb8b565c1233f1a0cc52c4280c9257/)
 
 [8 - Empty ](../../tree//)
