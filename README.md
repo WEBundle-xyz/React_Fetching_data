@@ -6,7 +6,7 @@
 
 [3 - Implementing errors with then/catch ](../../tree/c339414d3b82eb1e3a22026cb19c248268c5b2cb/)
 
-[4 - Empty ](../../tree//)
+[4 - Changing from then/catch to async/await ](../../tree/6ce8dae3c51af0eff0a3379006d26464de628d57/)
 
 [5 - Empty ](../../tree//)
 
